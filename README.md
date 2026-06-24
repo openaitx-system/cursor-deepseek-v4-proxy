@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=wustghj&project=cursor-deepseek-v4-proxy&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🧠 Cursor DeepSeek V4 Proxy
 
 > **一键修复 Cursor 使用 DeepSeek V4 时的 `reasoning_content` 错误，告别 `Rate limit exceeded`，让 AI Agent 模式稳定运行。**
